@@ -1,4 +1,5 @@
-👋 Hi there! I’m currently pursuing a Bachelor of Engineering in Electronics and Communication (ECE) at BMS College of Engineering, Bengaluru.
+# 👋 Hi there! Myself Krishna
+I’m currently pursuing a Bachelor of Engineering in Electronics and Communication (ECE) at BMS College of Engineering, Bengaluru.
 
 💻 I have a strong passion for Verilog programming and specialize in digital and analog circuit design.
 
