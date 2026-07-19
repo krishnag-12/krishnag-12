@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 185" width="430" height="185">
+  <defs>
+    <linearGradient id="cbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="ds">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#00d4ff" flood-opacity="0.04"/>
+    </filter>
+  </defs>
+
+  <!-- Card body -->
+  <rect x="1" y="1" width="428" height="183" rx="12" fill="url(#cbg)"
+        stroke="#00d4ff" stroke-width="0.6" stroke-opacity="0.2" filter="url(#ds)"/>
+
+  <!-- Top accent bar -->
+  <rect x="1" y="1" width="428" height="3" rx="12" fill="#00d4ff" opacity="0.35"/>
+
+  <!-- Title -->
+  <text x="20" y="34" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="14" font-weight="700" fill="#e2e8f0">
+    ML-Based Modulation Classification
+  </text>
+
+  <!-- Description -->
+  <text font-family="'Segoe UI', system-ui, sans-serif" font-size="11.5" fill="#8b949e">
+    <tspan x="20" y="56">CNN-based automatic modulation recognition</tspan>
+    <tspan x="20" dy="16">for BPSK, QPSK, and QAM signal schemes</tspan>
+  </text>
+
+  <!-- Tech tags -->
+  <g font-family="'Consolas', 'Courier New', monospace" font-size="10">
+    <rect x="20" y="94" width="50" height="20" rx="4" fill="#00d4ff" fill-opacity="0.07"
+          stroke="#00d4ff" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="45" y="108" text-anchor="middle" fill="#00d4ff">Python</text>
+
+    <rect x="77" y="94" width="78" height="20" rx="4" fill="#a78bfa" fill-opacity="0.07"
+          stroke="#a78bfa" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="116" y="108" text-anchor="middle" fill="#a78bfa">TensorFlow</text>
+
+    <rect x="162" y="94" width="110" height="20" rx="4" fill="#00d4ff" fill-opacity="0.07"
+          stroke="#00d4ff" stroke-width="0.5" stroke-opacity="0.25"/>
+    <text x="217" y="108" text-anchor="middle" fill="#00d4ff">Signal Processing</text>
+  </g>
+
+  <!-- Achievement -->
+  <text x="20" y="140" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="10.5" font-style="italic" fill="#a78bfa" opacity="0.9">
+    &#x25B8; Classification of 11 modulation types from raw I/Q data
+  </text>
+
+  <!-- Separator -->
+  <line x1="20" y1="152" x2="410" y2="152" stroke="#00d4ff" stroke-width="0.3" opacity="0.12"/>
+
+  <!-- Link indicator -->
+  <text x="20" y="172" font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="11" fill="#00d4ff" opacity="0.7">
+    View on GitHub &#x2192;
+  </text>
+</svg>

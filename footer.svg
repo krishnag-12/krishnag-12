@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
+  <defs>
+    <linearGradient id="ft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1b2e"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave fill -->
+  <path d="M0,32 C100,10 200,40 300,25 S500,8 600,28 S800,15 900,30 V80 H0 Z" fill="url(#ft)"/>
+
+  <!-- Wave edge trace -->
+  <path d="M0,32 C100,10 200,40 300,25 S500,8 600,28 S800,15 900,30"
+        stroke="#00d4ff" stroke-width="0.8" fill="none" opacity="0.15"/>
+
+  <!-- Subtle via dots along wave -->
+  <g fill="#00d4ff" opacity="0.1">
+    <circle cx="150" cy="28" r="1.5"/>
+    <circle cx="450" cy="15" r="1.5"/>
+    <circle cx="750" cy="22" r="1.5"/>
+  </g>
+
+  <!-- Bottom accent line -->
+  <line x1="0" y1="79" x2="900" y2="79" stroke="#00d4ff" stroke-width="0.5" opacity="0.1"/>
+</svg>

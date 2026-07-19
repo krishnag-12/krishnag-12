@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="900" height="24">
+  <!-- PCB-trace section divider -->
+  <g stroke="#00d4ff" stroke-width="0.8" fill="none" opacity="0.18">
+    <path d="M0,12 H370 V6 H530 V12 H900"/>
+  </g>
+  <!-- Via dots at junction points -->
+  <g fill="#00d4ff" opacity="0.22">
+    <circle cx="370" cy="12" r="2.8"/>
+    <circle cx="530" cy="12" r="2.8"/>
+    <circle cx="370" cy="6" r="1.8"/>
+    <circle cx="530" cy="6" r="1.8"/>
+  </g>
+  <!-- Center accent dot -->
+  <circle cx="450" cy="6" r="2" fill="#a78bfa" opacity="0.25"/>
+</svg>
