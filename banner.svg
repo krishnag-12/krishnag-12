@@ -12,14 +12,7 @@
       <circle cx="12" cy="12" r="0.6" fill="#00d4ff" opacity="0.05"/>
     </pattern>
 
-    <!-- Subtle text glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+
   </defs>
 
   <!-- ═══ BACKGROUND ═══ -->
@@ -101,7 +94,7 @@
   <text x="450" y="118" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', system-ui, -apple-system, sans-serif"
         font-size="15" font-weight="300" font-style="italic"
-        fill="#00d4ff" filter="url(#glow)">Architecting digital systems from register transfer to silicon</text>
+        fill="#00d4ff">Architecting digital systems from register transfer to silicon</text>
 
   <!-- Domain keywords -->
   <text x="450" y="152" text-anchor="middle"

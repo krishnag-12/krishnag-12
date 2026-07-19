@@ -51,10 +51,10 @@ Final-year **Electronics & Communication Engineering** student at BMS College of
 
 <p align="left">
   <a href="mailto:gkrishna7976@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=00d4ff" alt="Email" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/krishnagupta125/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00d4ff" alt="LinkedIn" />
   </a>
 </p>
 
@@ -91,22 +91,22 @@ Final-year **Electronics & Communication Engineering** student at BMS College of
 **HDL & RTL**
 
 <p>
-  <img src="https://img.shields.io/badge/Verilog-0d1117?style=flat-square&logo=v&logoColor=00d4ff" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=flat-square&logo=v&logoColor=a78bfa" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/FPGA-0d1117?style=flat-square&logo=intel&logoColor=00d4ff" alt="FPGA" />
-  <img src="https://img.shields.io/badge/RTL_Design-0d1117?style=flat-square&logoColor=a78bfa" alt="RTL Design" />
+  <img src="https://img.shields.io/badge/Verilog-0d1117?style=flat-square&amp;logo=v&amp;logoColor=00d4ff" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=flat-square&amp;logo=v&amp;logoColor=a78bfa" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/FPGA-0d1117?style=flat-square&amp;logo=intel&amp;logoColor=00d4ff" alt="FPGA" />
+  <img src="https://img.shields.io/badge/RTL_Design-0d1117?style=flat-square&amp;logoColor=a78bfa" alt="RTL Design" />
 </p>
 
 **Embedded & Firmware**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,arduino,raspberrypi&theme=dark&perline=5" alt="Embedded" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,arduino,raspberrypi&amp;theme=dark&amp;perline=5" alt="Embedded" />
 </a>
 
 **Systems & Toolchain**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,matlab,linux,git,vscode&theme=dark&perline=5" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,linux,git,vscode&amp;theme=dark&amp;perline=5" alt="Tools" />
 </a>
 
 </td>
@@ -125,17 +125,17 @@ Final-year **Electronics & Communication Engineering** student at BMS College of
 **EDA & Simulation**
 
 <p>
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-0d1117?style=flat-square&logoColor=00d4ff" alt="Vivado" />
-  <img src="https://img.shields.io/badge/KiCad-0d1117?style=flat-square&logoColor=a78bfa" alt="KiCad" />
-  <img src="https://img.shields.io/badge/LTspice-0d1117?style=flat-square&logoColor=00d4ff" alt="LTspice" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-0d1117?style=flat-square&amp;logoColor=00d4ff" alt="Vivado" />
+  <img src="https://img.shields.io/badge/KiCad-0d1117?style=flat-square&amp;logoColor=a78bfa" alt="KiCad" />
+  <img src="https://img.shields.io/badge/LTspice-0d1117?style=flat-square&amp;logoColor=00d4ff" alt="LTspice" />
 </p>
 
 **Currently Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/RISC--V-0d1117?style=flat-square&logo=riscv&logoColor=00d4ff" alt="RISC-V" />
-  <img src="https://img.shields.io/badge/UVM-0d1117?style=flat-square&logoColor=a78bfa" alt="UVM" />
-  <img src="https://img.shields.io/badge/Chisel-0d1117?style=flat-square&logo=scala&logoColor=00d4ff" alt="Chisel" />
+  <img src="https://img.shields.io/badge/RISC--V-0d1117?style=flat-square&amp;logo=riscv&amp;logoColor=00d4ff" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/UVM-0d1117?style=flat-square&amp;logoColor=a78bfa" alt="UVM" />
+  <img src="https://img.shields.io/badge/Chisel-0d1117?style=flat-square&amp;logo=scala&amp;logoColor=00d4ff" alt="Chisel" />
 </p>
 
 </td>
@@ -207,13 +207,13 @@ Final-year **Electronics & Communication Engineering** student at BMS College of
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnag-12&show_icons=true&theme=tokyonight&border_color=00d4ff&border_radius=10&title_color=00d4ff&icon_color=a78bfa&bg_color=0d1117&hide_border=false&count_private=true" alt="GitHub Stats" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnag-12&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;border_radius=10&amp;title_color=00d4ff&amp;icon_color=a78bfa&amp;bg_color=0d1117&amp;hide_border=false&amp;count_private=true" alt="GitHub Stats" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnag-12&bg_color=0d1117&color=00d4ff&line=a78bfa&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnag-12&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=a78bfa&amp;point=00d4ff&amp;area=true&amp;area_color=00d4ff&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
@@ -279,13 +279,13 @@ Final-year **Electronics & Communication Engineering** student at BMS College of
 
 <div align="center">
   <a href="mailto:gkrishna7976@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=00d4ff" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/krishnagupta125/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00d4ff" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/krishnag-12">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=a78bfa" alt="GitHub" />
   </a>
 </div>
 

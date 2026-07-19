@@ -12,10 +12,7 @@
       <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.3"/>
     </linearGradient>
 
-    <!-- Subtle shadow -->
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00d4ff" flood-opacity="0.08"/>
-    </filter>
+
 
     <!-- Dot pattern for card texture -->
     <pattern id="cardDots" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
@@ -34,7 +31,7 @@
   <circle cx="150" cy="75" r="3" fill="#00d4ff" opacity="0.4"/>
 
   <!-- ═══ ID CARD ═══ -->
-  <rect x="30" y="85" width="240" height="305" rx="16" fill="url(#card)" filter="url(#shadow)"
+  <rect x="30" y="85" width="240" height="305" rx="16" fill="url(#card)"
         stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.25"/>
 
   <!-- Card texture -->
