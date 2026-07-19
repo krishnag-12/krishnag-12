@@ -1,33 +1,42 @@
 <div align="center">
 
-<!-- ✨ Animated Header Banner ✨ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=220&section=header&text=Krishna%20G&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=0d1117&desc=Hardware%20&%20Embedded%20Systems%20Engineer&descAlignY=55&descAlign=62&descSize=22" alt="Header" width="100%" />
-
-<br/>
-
-<!-- ✨ Typing Animation ✨ -->
-<a href="https://github.com/krishnag-12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+BMSCE;RTL+%26+Digital+Design+Enthusiast;Embedded+Systems+Engineer;Exploring+Space+Tech+%26+AI+Hardware" alt="Typing SVG" />
-</a>
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner.svg?v=1">
+  <img src="./banner.svg?v=1" alt="Krishna G — Hardware & Embedded Engineer" width="100%"/>
+</picture>
 
 </div>
 
 <br/>
 
-<!-- 🟢 INTRODUCTION -->
-<div align="center">
-  <p align="center">
-    <b>Bridging the gap between software algorithms and silicon logic.</b>
-  </p>
-  <p align="center">
-    I am a final-year Electronics and Communication Engineering (ECE) student specializing in <b>Digital Design</b>, <b>FPGA</b>, and <b>Embedded Systems</b>. Passionate about architecting efficient hardware solutions, writing clean RTL in Verilog/SystemVerilog, and exploring the intersection of IoT, AI hardware, and Space Technology.
-  </p>
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-  <p align="center">
-    <a href="mailto:gkrishna7976@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=mail.ru&logoColor=00f0ff&borderColor=00f0ff" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/krishnagupta125/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff" alt="LinkedIn" /></a>
-  </p>
-</div>
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./lanyard.svg?v=1" alt="Krishna G ID badge" width="330"/>
+
+</td>
+<td width="62%" valign="middle">
+
+### 👨‍💻 About Me
+
+**Bridging the gap between software algorithms and silicon logic.**
+
+I am a final-year Electronics and Communication Engineering (ECE) student specializing in **Digital Design**, **FPGA**, and **Embedded Systems**. Passionate about architecting efficient hardware solutions, writing clean RTL in Verilog/SystemVerilog, and exploring the intersection of IoT, AI hardware, and Space Technology.
+
+<br/>
+
+<p align="left">
+  <a href="mailto:gkrishna7976@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=mail.ru&logoColor=00f0ff&borderColor=00f0ff" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/krishnagupta125/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff" alt="LinkedIn" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <hr style="border: 1px solid #00f0ff33; margin: 30px 0;">
 
