@@ -207,7 +207,7 @@ Final-year **Electronics & Communication Engineering** student at BMS College of
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnag-12&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;border_radius=10&amp;title_color=00d4ff&amp;icon_color=a78bfa&amp;bg_color=0d1117&amp;hide_border=false&amp;count_private=true" alt="GitHub Stats" width="55%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishnag-12&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;border_radius=10&amp;title_color=00d4ff&amp;icon_color=a78bfa&amp;bg_color=0d1117&amp;hide_border=false&amp;count_private=true" alt="GitHub Stats" width="55%"/>
 </div>
 
 <br/>
