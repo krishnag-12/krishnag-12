@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner.svg?v=1">
-  <img src="./banner.svg?v=1" alt="Krishna G — Hardware & Embedded Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner.svg">
+  <img src="banner.svg" alt="Krishna G — Hardware & Embedded Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./lanyard.svg?v=1" alt="Krishna G ID badge" width="330"/>
+<img src="lanyard.svg" alt="Krishna G ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -30,8 +30,8 @@ I am a final-year Electronics and Communication Engineering (ECE) student specia
 <br/>
 
 <p align="left">
-  <a href="mailto:gkrishna7976@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=mail.ru&logoColor=00f0ff&borderColor=00f0ff" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/krishnagupta125/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff" alt="LinkedIn" /></a>
+  <a href="mailto:gkrishna7976@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=mail.ru&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/krishnagupta125/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="LinkedIn" /></a>
 </p>
 
 </td>
@@ -47,21 +47,21 @@ I am a final-year Electronics and Communication Engineering (ECE) student specia
 
 ### ⚡ Hardware & Digital Design
 <p>
-  <img src="https://img.shields.io/badge/Verilog-0d1117?style=flat-square&logo=c&logoColor=00f0ff&borderColor=00f0ff" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=flat-square&logo=cplusplus&logoColor=00f0ff&borderColor=00f0ff" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/FPGA-0d1117?style=flat-square&logo=microchip&logoColor=00f0ff&borderColor=00f0ff" alt="FPGA" />
-  <img src="https://img.shields.io/badge/RTL_Design-0d1117?style=flat-square&logo=riscv&logoColor=00f0ff&borderColor=00f0ff" alt="RTL" />
-  <img src="https://img.shields.io/badge/PCB_Design-0d1117?style=flat-square&logo=altiumdesigner&logoColor=00f0ff&borderColor=00f0ff" alt="PCB" />
+  <img src="https://img.shields.io/badge/Verilog-0d1117?style=flat-square&amp;logo=c&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-0d1117?style=flat-square&amp;logo=cplusplus&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/FPGA-0d1117?style=flat-square&amp;logo=microchip&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="FPGA" />
+  <img src="https://img.shields.io/badge/RTL_Design-0d1117?style=flat-square&amp;logo=riscv&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="RTL" />
+  <img src="https://img.shields.io/badge/PCB_Design-0d1117?style=flat-square&amp;logo=altiumdesigner&amp;logoColor=00f0ff&amp;borderColor=00f0ff" alt="PCB" />
 </p>
 
 ### 🔬 Languages & Firmware
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,arduino,raspberrypi&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,arduino,raspberrypi&amp;theme=dark" alt="Languages" />
 </a>
 
 ### 💻 Software & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,matlab,git,github,vscode,react,js,ts&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,matlab,git,github,vscode,react,js,ts&amp;theme=dark" alt="Tools" />
 </a>
 
 </td>
@@ -91,19 +91,19 @@ I am a final-year Electronics and Communication Engineering (ECE) student specia
 
 <div align="center">
   <a href="https://github.com/krishnag-12/Advance_Traffic_Management_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&repo=Advance_Traffic_Management_System&theme=tokyonight&border_color=00f0ff&border_radius=10&title_color=00f0ff" alt="Advanced Traffic Management System" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&amp;repo=Advance_Traffic_Management_System&amp;theme=tokyonight&amp;border_color=00f0ff&amp;border_radius=10&amp;title_color=00f0ff" alt="Advanced Traffic Management System" width="48%" />
   </a>
   <a href="https://github.com/krishnag-12/ML_Based_Automatic_Modulation_Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&repo=ML_Based_Automatic_Modulation_Classification&theme=tokyonight&border_color=00f0ff&border_radius=10&title_color=00f0ff" alt="ML Modulation Classification" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&amp;repo=ML_Based_Automatic_Modulation_Classification&amp;theme=tokyonight&amp;border_color=00f0ff&amp;border_radius=10&amp;title_color=00f0ff" alt="ML Modulation Classification" width="48%" />
   </a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/krishnag-12/gate-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&repo=gate-simulator&theme=tokyonight&border_color=00f0ff&border_radius=10&title_color=00f0ff" alt="Gate Simulator" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&amp;repo=gate-simulator&amp;theme=tokyonight&amp;border_color=00f0ff&amp;border_radius=10&amp;title_color=00f0ff" alt="Gate Simulator" width="48%" />
   </a>
   <a href="https://github.com/krishnag-12/4bit_Ripple_Carry_Adder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&repo=4bit_Ripple_Carry_Adder&theme=tokyonight&border_color=00f0ff&border_radius=10&title_color=00f0ff" alt="4bit Ripple Carry Adder" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnag-12&amp;repo=4bit_Ripple_Carry_Adder&amp;theme=tokyonight&amp;border_color=00f0ff&amp;border_radius=10&amp;title_color=00f0ff" alt="4bit Ripple Carry Adder" width="48%" />
   </a>
 </div>
 
@@ -114,25 +114,25 @@ I am a final-year Electronics and Communication Engineering (ECE) student specia
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnag-12&show_icons=true&theme=tokyonight&border_color=00f0ff&border_radius=10&title_color=00f0ff&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnag-12&theme=tokyonight&border_radius=10&border=00f0ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnag-12&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00f0ff&amp;border_radius=10&amp;title_color=00f0ff&amp;hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnag-12&amp;theme=tokyonight&amp;border_radius=10&amp;border=00f0ff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnag-12&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnag-12&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnag-12&bg_color=1a1b27&color=00f0ff&line=00f0ff&point=bf95f9&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnag-12&amp;bg_color=1a1b27&amp;color=00f0ff&amp;line=00f0ff&amp;point=bf95f9&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <!-- 🟢 FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=100&section=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00f0ff&amp;height=100&amp;section=footer" alt="Footer" width="100%"/>
 </div>
